@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Sum of Digits",
+    "link": "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1",
+    "difficulty": "Easy",
+    "category": "Basics"
+  },
+  {
+    "id": 2,
+    "title": "Reverse a Number",
+    "link": "https://www.geeksforgeeks.org/problems/reverse-digit0316/1",
+    "difficulty": "Easy",
+    "category": "Basics"
+  },
+  {
+    "id": 3,
+    "title": "Check Even or Odd",
+    "link": "https://www.geeksforgeeks.org/c-program-to-check-whether-a-number-is-even-or-odd/",
+    "difficulty": "Easy",
+    "category": "Conditional"
+  },
+  {
+    "id": 4,
+    "title": "Prime Testing",
+    "link": "https://www.geeksforgeeks.org/problems/prime-number2314/1",
+    "difficulty": "Easy",
+    "category": "Math"
+  },
+  {
+    "id": 5,
+    "title": "GCD / HCF",
+    "link": "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1",
+    "difficulty": "Medium",
+    "category": "Number Theory"
+  },
+  {
+    "id": 6,
+    "title": "LCM of Two Numbers",
+    "link": "https://www.geeksforgeeks.org/c-program-to-find-lcm-of-two-numbers/",
+    "difficulty": "Medium",
+    "category": "Number Theory"
+  },
+  {
+    "id": 7,
+    "title": "Perfect Number",
+    "link": "https://www.geeksforgeeks.org/problems/perfect-numbers3207/1",
+    "difficulty": "Medium",
+    "category": "Math"
+  },
+  {
+    "id": 8,
+    "title": "Nth Fibonacci Number",
+    "link": "https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1",
+    "difficulty": "Medium",
+    "category": "Series"
+  }
+]
